@@ -1,0 +1,12 @@
+target/
+.project
+.classpath
+.settings/
+s4hana_pipeline/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+**/credentials.*
+**/node_modules
+**/package-lock.json
